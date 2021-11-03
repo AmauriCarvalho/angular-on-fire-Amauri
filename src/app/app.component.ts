@@ -7,7 +7,7 @@ import { AuthService } from './auth.service';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Angular on Fire';
+  name = 'Angular on Fire - Amauri Carvalho';
 
   email: string;
   password: string;
